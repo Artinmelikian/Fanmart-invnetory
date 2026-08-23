@@ -1,0 +1,1 @@
+- [GitHub empty-repository publishing](github-empty-repository-publishing.md) — GitHub’s Git Database API needs a seed commit before it can accept blobs for an empty repository.
