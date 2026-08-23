@@ -18,7 +18,7 @@ const menuItems = [
     icon: Package,
   },
   {
-    title: "Add Item",
+    title: "Add New Item",
     url: "/add-item",
     icon: Plus,
   },
